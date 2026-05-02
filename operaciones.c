@@ -12,7 +12,7 @@ int restar(int a, int b) {
     return a - b;
 }
 
-/* Recibiendo por parametro dos enteros, multiplica mediante el operador '*' */
+
 
 int multiplicar(int a, int b) {
     return a * b;
